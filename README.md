@@ -6,3 +6,6 @@ Learn more about the CARIN HL7® FHIR® Directory Framework Initiative [here](ht
 
 ## How to Use
 Clone or download this repository and use the CSV file included to access the common directory entries.
+
+## Support
+For support contact [carinfhirdirectory@onerecord.com](mailto:carinfhirdirectory@onerecord.com)
