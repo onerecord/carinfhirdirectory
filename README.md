@@ -5,7 +5,7 @@ This directory is designed to help consumer-facing applications have what is nee
 Learn more about the CARIN HL7® FHIR® Directory Framework Initiative [here](https://carinfhirdirectory.com/learn/).
 
 ## How to Use
-Clone or download this repository and use the CSV file included to access the common directory entries.
+Clone or download this repository and use the CSV file included to access the common directory entries. Additionally, logo assets associated with entries made in the CSV can be found in the 'Logos' directory.
 
 ## Support
 For support contact [carinfhirdirectory@onerecord.com](mailto:carinfhirdirectory@onerecord.com)
